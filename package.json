@@ -1,0 +1,11 @@
+{
+  "name": "doh-sql",
+  "version": "0.0.1",
+  "description": "SQL dumps parsing tool",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Souler <soulerhyd@gmail.com>",
+  "license": "MIT"
+}
